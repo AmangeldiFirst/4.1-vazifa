@@ -1,0 +1,160 @@
+
+
+span{
+padding: 0px;
+
+
+}
+
+
+.container1 {
+  text-align: center;
+  width: 100%;
+  margin: 2rem auto 10px auto;
+  
+
+ 
+}
+
+
+.container1 span .name{
+ margin: 0;
+  font-size: 52px;
+ font-family: MarckScript ;
+ 
+  display: flex;
+  justify-content: center;
+  
+}
+
+header{
+  margin-bottom: 2rem;
+
+ display: flex;
+ justify-content: center;
+ 
+}
+
+header ul{
+  margin: 0px;
+  
+display: flex;
+justify-content:center;
+
+list-style: none;
+}
+
+header ul li{
+  
+  margin: 1rem;
+}
+
+a{
+  color: black;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: rgb(141, 153, 163);
+}
+
+
+
+.images{
+margin: auto auto;
+  
+ width: 947px;
+  display: block;
+
+  position: relative;
+  height: 1180px;
+
+
+}
+
+.links{
+  width: 947px;
+  margin: auto auto;
+  font-size: 13px;
+
+}
+
+.links a{
+  font-size: 12px;
+  text-decoration:underline;
+}
+
+
+.imgSize1{
+  width: 301px;
+  height: 301px;
+  }
+  
+  .imgSize2{
+    width: 301px;
+    height: 451px;
+    }
+
+.overlay{
+  position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.item{
+  float: left;
+  display: block;
+}
+
+
+.img1{
+  position: absolute;
+  left: 3px;
+  width: 301px;
+  margin-bottom: 17px;
+  box-shadow: none;
+  cursor: pointer;
+  top: 3px;
+}
+
+
+
+.img2{
+  position: absolute;
+  left: 320px;
+  width: 301px;
+  margin-bottom: 17px;
+  box-shadow: none;
+  cursor: pointer;
+  top: 3px;
+}
+
+
+
+.img3{
+  position: absolute;
+  left: 638px;
+  width: 301px;
+  margin-bottom: 17px;
+  box-shadow: none;
+  cursor: pointer;
+  top: 3px;
+}
+
+.links{
+ 
+  font-size: 18px;
+}
+
+
+.links a{
+  font-size: 18px;
+}
+.socSet ul li{
+ 
+  display: inline;
+  list-style: none;
+  margin: auto 2px;
+}

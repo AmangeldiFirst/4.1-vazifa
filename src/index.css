@@ -1,0 +1,9 @@
+
+@font-face {
+  font-family: 'MarckScript';
+  src: local('MarckScript'), url(./MarckScript-Regular.ttf) format('truetype');
+}
+*{
+  box-sizing: border-box;
+}
+
